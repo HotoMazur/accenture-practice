@@ -1,0 +1,5 @@
+github:
+  user: HotoMazur
+  token: secret_key
+  secret: asd
+orgAllowlist: github.com/runatlantis/*
